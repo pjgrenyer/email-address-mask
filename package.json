@@ -1,7 +1,7 @@
 {
-    "name": "node-typescript-template",
-    "version": "1.1.0",
-    "description": "A template node typescript project",
+    "name": "mask-email-address",
+    "version": "0.0.1",
+    "description": "Mask email address and domain ",
     "main": "index.js",
     "engines": {
         "npm": ">=9.8.1",
@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/pjgrenyer/node-typescript-template.git"
+        "url": "git+https://github.com/pjgrenyer/mask-email-address.git"
     },
     "keywords": [
         "node",
@@ -26,9 +26,9 @@
     "author": "Paul Grenyer",
     "license": "SEE LICENSE IN LICENSE",
     "bugs": {
-        "url": "https://github.com/pjgrenyer/node-typescript-template/issues"
+        "url": "https://github.com/pjgrenyer/mask-email-address/issues"
     },
-    "homepage": "https://github.com/pjgrenyer/node-typescript-template#readme",
+    "homepage": "https://github.com/pjgrenyer/mask-email-address#readme",
     "dependencies": {
         "typescript": "^5.4.5"
     },

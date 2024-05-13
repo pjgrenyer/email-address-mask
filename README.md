@@ -1,5 +1,5 @@
-# node-typescript-template
-A template node typescript project
+# mask-email-address
+Mask email address and domain 
 
 # Useful Links
 
