@@ -1,10 +1,10 @@
 const maskPart = (part: string) => {
     const length = part.length;
     if (length > 8) {
-        return part.substr(0, 2) + part.substr(2, length - 2).replace(/\w/g, '*') + part.substr(-2, 2);
+        return part.substring(0, 2) + part.substring(2, length).replace(/\w/g, '*') + part.substring(length - 2, length);
     }
     if (length > 4) {
-        return part.substr(0, 1) + part.substr(1, length - 1).replace(/\w/g, '*') + part.substr(-1, 1);
+        return part.substring(0, 1) + part.substring(1, length).replace(/\w/g, '*') + part.substring(length + 1, length - 1);
     }
     return part.replace(/\w/g, '*');
 };
