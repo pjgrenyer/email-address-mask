@@ -1,6 +1,3 @@
-# mask-email-address
+# email-address-mask
 Mask email address and domain 
 
-# Useful Links
-
-https://docs.npmjs.com/updating-packages-downloaded-from-the-registry
