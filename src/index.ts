@@ -1,6 +1,2 @@
-const main = () => {
-    // eslint-disable-next-line no-console
-    console.log('Hello, world!');
-};
-
-main();
+import { maskEmailAddress } from './mask-email-address';
+export { maskEmailAddress };
