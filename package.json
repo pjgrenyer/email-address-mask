@@ -1,6 +1,6 @@
 {
     "name": "mask-email-address",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Mask email address and domain ",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
